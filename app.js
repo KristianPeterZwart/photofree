@@ -24,4 +24,7 @@ async function curatedPhotos() {
     });
 }
 
+async function searchPhotos(query){
+    
+}
 curatedPhotos();
